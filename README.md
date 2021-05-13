@@ -1,2 +1,2 @@
 # datacademy_platzi
-asdasd
+Codigo respecto al programa Datacademy de platzi
